@@ -15,5 +15,14 @@ Wrapping the data and code acting on the data(methods) together as a single unit
 The variables of a class will be hidden from other classes and can be accessed only through the methods of their current class. Therefore it is also known as data hiding. 
 Getters and Setters are used.
 #### Inheritance
+One class acquires the properties (methods and fields) of another
+Is a relationship
 #### Plymorphism
+Many forms, occurs when we have many classes that are related to each other by inheritance. 
+Method overriding 
+Method Overloading 
 #### Abstraction
+"The process of hinding certain details and showing only essential information to the users". 
+Abstract Classes 
+Abstract Methods 
+Interfaces

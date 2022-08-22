@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Java-Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_loops/day02_loops.iml" filepath="$PROJECT_DIR$/day02_loops/day02_loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/rotateMatrix_using_java/rotateMatrix_using_java.iml" filepath="$PROJECT_DIR$/rotateMatrix_using_java/rotateMatrix_using_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/stringCompression/stringCompression.iml" filepath="$PROJECT_DIR$/stringCompression/stringCompression.iml" />
     </modules>

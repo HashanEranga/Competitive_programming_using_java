@@ -9,16 +9,22 @@ public class Demo {
 		int x = 10;
 		
 		try {
+			System.out.println("Start Try");
 			int y = x / 0;
 			System.out.println(y);
+			System.out.println("End Try");
 		}
 		
 		catch (NullPointerException ex) {
+			System.out.println("Start Catch");
 			System.out.println(ex);
+			System.out.println("End Catch");
 		}
 		
 		catch (Exception ex) {
+			System.out.println("Start Catch");
 			System.out.println(ex);
+			System.out.println("End Catch");
 		}
 		
 		System.out.println(x);

@@ -33,7 +33,7 @@ Triggering an unwanted event in a program is called an exception.
 There are two types of exceptions. 
 01. Checked Exception - Compile time exception
 02. Unchecked Exception - Runtime exception 
-There is a hierachy in exception handling
+###### There is a hierachy in exception handling
 Super class of the exception class is Throwable 
 Exception class have subclass called Runtime Exception (Arithmatic Exception, Nullpointer Exception, Number format exception, index out of bound(array, string))
 Exceptions can handled but errors cannot. For example, stack overflow error, out of memory error and network failures are errors that cannot be handle.  

@@ -17,13 +17,13 @@ public class Demo {
 		
 		catch (NullPointerException ex) {
 			System.out.println("Start Catch");
-			System.out.println(ex);
+			ex.printStackTrace();
 			System.out.println("End Catch");
 		}
 		
 		catch (Exception ex) {
 			System.out.println("Start Catch");
-			System.out.println(ex);
+			ex.printStackTrace();
 			System.out.println("End Catch");
 		}
 		

@@ -38,3 +38,5 @@ Super class of the exception class is Throwable
 Exception class have subclass called Runtime Exception (Arithmatic Exception, Nullpointer Exception, Number format exception, index out of bound(array, string))
 Exceptions can handled but errors cannot. For example, stack overflow error, out of memory error and network failures are errors that cannot be handle.  
 
+#### Uncought exception handler 
+Here uncought exceptions will be handled mechanism is once an exception is discovered it will show the path followed. 

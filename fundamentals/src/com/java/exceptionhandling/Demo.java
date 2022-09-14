@@ -10,18 +10,14 @@ public class Demo {
 		
 		try {
 			System.out.println("Start Try");
-			int y = x / 0;
+			int y = x / 2;
 			int ar[] = new int[10];
 			ar[50] = 10;
 			System.out.println(y);
 			System.out.println("End Try");
 		}
 		
-		catch (NullPointerException ex) {
-			ex.printStackTrace();
-		}
-		
-		catch (ArrayIndexOutOfBoundsException ex) {
+		catch (ArrayIndexOutOfBoundsException | ArithmeticException ex) {
 			ex.printStackTrace();
 		}
 		

@@ -11,14 +11,18 @@ public class Demo {
 		try {
 			System.out.println("Start Try");
 			int y = x / 0;
+			int ar[] = new int[10];
+			ar[50] = 10;
 			System.out.println(y);
 			System.out.println("End Try");
 		}
 		
 		catch (NullPointerException ex) {
-			System.out.println("Start Catch");
 			ex.printStackTrace();
-			System.out.println("End Catch");
+		}
+		
+		catch (ArrayIndexOutOfBoundsException ex) {
+			ex.printStackTrace();
 		}
 		
 		catch (Exception ex) {

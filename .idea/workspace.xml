@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a89324f8-3498-49b0-aa99-3db64e90b574" name="Default Changelist" comment="day 2 | java fundamentals 2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java-Fundamentals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_loops/day02_loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_loops/src/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_loops/src/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/Day2-DataTypes/DTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/Day2-DataTypes/DTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/Day2-DataTypes/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/Day2-DataTypes/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/Day2-DataTypes/UserInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/Day2-DataTypes/UserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/bin/com/java/fundamentals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/bin/com/java/operators/codingEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/bin/com/java/operators/codingEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/com/java/advancedexceptions/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/com/java/exceptionhandling/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/com/java/exceptionhandling/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/com/java/fundamentals/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/com/java/operators/codingEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/com/java/operators/codingEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/DateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/hackerrank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/out/production/hackerrank/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/out/production/hackerrank/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/hackerrank/src/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/src/01_dateTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/.idea/artifacts/intellecto_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/intellecto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/out/artifacts/intellecto_jar/intellecto.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/out/production/intellecto/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/out/production/intellecto/com/example/helloworld/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/out/production/intellecto/com/example/helloworld/ICar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/out/production/intellecto/com/example/helloworld/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/out/production/intellecto/com/example/helloworld/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/out/production/intellecto/com/example/helloworld/carMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/src/com/example/helloworld/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/src/com/example/helloworld/ICar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/src/com/example/helloworld/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/src/com/example/helloworld/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellecto/src/com/example/helloworld/carMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/com/operators/practice/codingEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/fundamentals/Day2-DataTypes/DTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/fundamentals/Day2-DataTypes/DTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/fundamentals/Day2-DataTypes/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/fundamentals/Day2-DataTypes/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/fundamentals/Day2-DataTypes/UserInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/fundamentals/Day2-DataTypes/UserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/.idea/artifacts/intellecto_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/intellecto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/out/artifacts/intellecto_jar/intellecto.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/out/production/intellecto/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/out/production/intellecto/com/example/helloworld/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/out/production/intellecto/com/example/helloworld/ICar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/out/production/intellecto/com/example/helloworld/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/out/production/intellecto/com/example/helloworld/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/out/production/intellecto/com/example/helloworld/carMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/src/com/example/helloworld/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/src/com/example/helloworld/ICar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/src/com/example/helloworld/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/src/com/example/helloworld/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/intellecto/src/com/example/helloworld/carMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/methods/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/methods/methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/rotateMatrix_using_java/imageRotation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/rotateMatrix_using_java/rotateMatrix_using_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/rotateMatrix_using_java/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/rotateMatrix_using_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/rotateMatrix_using_java/src/matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldVersionData/stringCompression.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day02_loops/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day02_loops/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotateMatrix_using_java/imageRotation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotateMatrix_using_java/rotateMatrix_using_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotateMatrix_using_java/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotateMatrix_using_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotateMatrix_using_java/src/matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringCompression/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringCompression/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringCompression/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringCompression/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringCompression/src/stringComp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringCompression/src/stringComp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringCompression/src/stringCompression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringCompression/stringCompression.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1yBYNzlWFXJ7yBapNKliz9McjZF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "last_opened_file_path": "D:/Academic/Java/Java-Fundamentals",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Academic\Java\Java-Fundamentals\hackerrank\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Sample">
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop" />
+      <module name="day02_loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="day02_loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample" />
+      <module name="Day03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sample" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ForLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a89324f8-3498-49b0-aa99-3db64e90b574" name="Default Changelist" comment="" />
+      <created>1631726416983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631726416983</updated>
+      <workItem from="1660707704605" duration="1631000" />
+      <workItem from="1661179770038" duration="4184000" />
+      <workItem from="1674665906399" duration="779000" />
+    </task>
+    <task id="LOCAL-00001" summary="day 2 | java fundamentals">
+      <created>1661181408901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661181408901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day 2 | java fundamentals 2">
+      <created>1661188529754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661188529754</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day 2 | java fundamentals 2">
+      <created>1661188537702</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661188537702</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="day 2 | java fundamentals" />
+    <MESSAGE value="day 2 | java fundamentals 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2 | java fundamentals 2" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

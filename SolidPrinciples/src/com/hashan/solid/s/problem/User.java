@@ -1,3 +1,5 @@
+package com.hashan.solid.s.problem;
+
 public class User {
     private int id;
     private String primaryEmail;

@@ -1,3 +1,7 @@
+package com.hashan.solid.s.solution;
+
+import com.hashan.solid.s.problem.User;
+
 public class MailboxSettingsService {
     SecurityService securityService;
     {

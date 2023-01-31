@@ -1,3 +1,5 @@
+package com.hashan.solid.s.problem;
+
 public class MailboxSettingsService {
     public void changeSecondaryEmail(User user, String newSecondaryEmail){
         if(hasAccess(user)) user.setSecondaryEmail(newSecondaryEmail);

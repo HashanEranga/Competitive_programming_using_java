@@ -1,3 +1,5 @@
+package com.hashan.solid.s.problem;
+
 public class SingleResponsibilityDemo {
     public static void main(String[] args) {
         MailboxSettingsService settingsService = new MailboxSettingsService();
